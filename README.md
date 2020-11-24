@@ -17,7 +17,7 @@
 ## Installation 
 #### -Clone the repo
 #### -route to the directory in terminal
-#### -git clone git@github.com:aakritsubedi/react-keepNote.git
+#### -git clone git@github.com:abhilasha007/Note-keeper.git
 #### -open the folder in the editor of your choice
 #### -route to the directory in terminal
 #### -yarn install/ npm install - installs all the dependencies and packages
