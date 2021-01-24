@@ -1,5 +1,6 @@
 # Note-Keeper
-React.js Note keeping application. Google-keep clone for taking notes 
+React.js Note keeping application. Google-keep clone.
+Styled with Material-UI 
 
 ## Available Scripts
 In the project directory, you can run:
